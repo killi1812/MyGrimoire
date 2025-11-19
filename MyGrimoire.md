@@ -13,6 +13,8 @@ This file is used as a personal grimoire for the player
     - [Critical Channelling and Fumbled Channelling](#critical-channelling-and-fumbled-channelling)
       - [Critical Channelling](#critical-channelling)
       - [Fumbled Channelling](#fumbled-channelling)
+  - [Your Spells](#your-spells)
+    - [Spell Name](#spell-name)
 - [Rules](#rules)
   - [Magic Missile](#magic-missile)
   - [Touch Spells in Combat](#touch-spells-in-combat)
@@ -27,6 +29,8 @@ This file is used as a personal grimoire for the player
     - [Dispelling Persistent Spells](#dispelling-persistent-spells)
   - [Warpstone](#warpstone)
     - [Major Exposure](#major-exposure)
+  - [Overcasting](#overcasting)
+  - [Grimoire](#grimoire)
   - [Minor Miscast Table](#minor-miscast-table)
   - [Major Miscast Table](#major-miscast-table)
 <!--toc:end-->

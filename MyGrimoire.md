@@ -204,7 +204,7 @@ Make **Extended Language (Magick)** when **SL** reaches spell's **CN** it is dis
 For every +2 **SL** above **CN** you may increase:
 Range, Area of Effect, Duration, Targets
 
-**With formula**: **SL**/2 x value
+**With formula**: **Bonus SL**/2 x value
 
 ## Grimoire
 
@@ -232,19 +232,19 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 16-20 | **Soulwax**: Your ears clog instantly with a thick wax. Gain 1 Deafened Condition, which is not removed until someone cleans them for you (with a successful use of the Heal Skill). |
 | 21-25 | **Witchlight**: You glow with an eerie light related to your Lore, emitting as much light as a large bonfire, which lasts for 1d10 Rounds.|
 | 26-30 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
-| 16-20 | |
+| 31-35 | |
+| 36-40 | |
+| 41-45 | |
+| 46-50 | |
+| 51-55 | |
+| 56-60 | |
+| 61-65 | |
+| 66-70 | |
+| 71-75 | |
+| 76-80 | |
+| 81-85 | |
+| 86-90 | |
+| 91-95 | |
+| 96-00 | |
 
 ## Major Miscast Table

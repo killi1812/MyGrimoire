@@ -185,7 +185,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 11-15 | **Aethyric Shock:** you suffer 1d10 wounds, ignoring your Toughness Bonus and Armour Points. Pass an **Average (+20) Endurance** Test, or also gain a _Stunned_ Condition. |
 | 16-20 | **Death Walker:** Your footsteps leave death in their wake. For the next 1d10 hours, any plant life near you with- ers and dies.|
 | 21-25 | **Intestinal Rebellion:** Your bowels move uncontrollably, and you soil yourself. Gain 1 _Fatigued_ Condition, which cannot be removed until you can change your clothes and clean yourself up. |
-| 26-30 | **Soulfire:** Gain an [_Ablaze_](#ablaze) Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
+| 26-30 | **Soulfire:** Gain an [_Ablaze_](/Conditions.md#ablaze) Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
 | 31-35 | **Speak in Tongues:** You gabble unintelligibly for 1d10 rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally|
 | 36-40 | **Swarmed:** You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM’s choice). Use the standard profiles for the relevant creature type, adding the _Swarm_ Creature Trait. After 1d10 rounds, if not yet destroyed, the swarm retreats.|
 | 41-45 | **Ragdoll:** You are flung 1d10 yards through the air in a random direction, taking 1d10 wounds on landing, ignoring Armour Points, and receiving the _Prone_ Condition.| | 46-50 | |

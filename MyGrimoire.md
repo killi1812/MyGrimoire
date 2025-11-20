@@ -15,7 +15,7 @@ This file is used as a personal grimoire for the player
       - [Fumbled Channelling](#fumbled-channelling)
   - [Your Spells](#your-spells)
     - [Spell Name](#spell-name)
-- [Rules](#rules)
+- [Additional Rules](#additional-rules)
   - [Magic Missile](#magic-missile)
   - [Touch Spells in Combat](#touch-spells-in-combat)
   - [Interruptions](#interruptions)
@@ -86,15 +86,15 @@ Roll [Major Miscast Table](#major-miscast-table)
 
 ## Your Spells
 
-### Spell Name
+> ### Spell Name
+>
+> **CN:** 1               \
+> **Range:** range        \
+> **Target:** target      \
+> **Duration:** duration  \
+> Spell effect with links like [Magic Missile](#magic-missile),
 
-- **CN:** 1
-- **Range:** range
-- **Target:** target
-- **Duration:** duration
-Spell effect with links like [Magic Missile](#magic-missile),
-
-# Rules
+# Additional Rules
 
 ## Magic Missile
 
@@ -233,7 +233,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 01-05 | **Witchsign**: the next living creature born within 1 mile is mutated |
 | 06-10 | **Soured Milk**: All milk within 1d100 yards goes sour instantly |
 | 11-15 | **Blight** Willpower Bonus fields within Willpower Bonus miles suffer a blight, and all crops rot overnight. |
-| 16-20 | **Soulwax**: Your ears clog instantly with a thick wax. Gain 1 Deafened Condition, which is not removed until someone cleans them for you (with a successful use of the Heal Skill). |
+| 16-20 | **Soulwax**: Your ears clog instantly with a thick wax. Gain 1 *Deafened Condition*, which is not removed until someone cleans them for you (with a successful use of the **Heal** Skill). |
 | 21-25 | **Witchlight**: You glow with an eerie light related to your Lore, emitting as much light as a large bonfire, which lasts for 1d10 Rounds.|
 | 26-30 | |
 | 31-35 | |

@@ -166,7 +166,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 41-45 | **Unfasten:** On your person, every buckle unfastens, and every lace unties, which may cause belts to fall, pouches to open, bags to fall, and armour to slip.|
 | 46-50 | **Wayward Garb:** your clothes seem to writhe with a mind of their own. Receive 1 _Entangled_ Condition with a Strength of 1d10×5 to resist.|
 | 51-55 | **Curse of Temperance:** All alcohol within 1d100 yards goes bad, tasting bitter and foul.|
-| 56-60 | **Souldrain:** Gain 1 _Fatigued_ Condition, which remains for 1d10 hours|
+| 56-60 | **Souldrain:** Gain 1 [_Fatigued_](/Conditions.md#fatigued) Condition, which remains for 1d10 hours|
 | 61-65 | **Driven to Distraction:** If engaged in combat, gain the _Surprised_ Condition. Otherwise, you are completely startled, your heart racing, and unable to concentrate for a few moments.|
 | 66-70 | **Unholy Visions:** Fleeting visions of profane and unholy acts harass you. Receive a _Blinded_ Condition; pass a **Challenging (+0) Cool** Test or gain another.|
 | 71-75 | **Cloying Tongue:** All Language Tests (including Casting Tests) suffer a –10 penalty for 1d10 Rounds. |
@@ -184,7 +184,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 06-10 | **Hexeyes:** Your eyes turn an unnatural colour associated with your Lore for 1d10 hours. While your eyes are discoloured, you have 1 _Blinded_ Condition that cannot be resolved by _any_ means. |
 | 11-15 | **Aethyric Shock:** you suffer 1d10 wounds, ignoring your Toughness Bonus and Armour Points. Pass an **Average (+20) Endurance** Test, or also gain a _Stunned_ Condition. |
 | 16-20 | **Death Walker:** Your footsteps leave death in their wake. For the next 1d10 hours, any plant life near you with- ers and dies.|
-| 21-25 | **Intestinal Rebellion:** Your bowels move uncontrollably, and you soil yourself. Gain 1 _Fatigued_ Condition, which cannot be removed until you can change your clothes and clean yourself up. |
+| 21-25 | **Intestinal Rebellion:** Your bowels move uncontrollably, and you soil yourself. Gain 1 [_Fatigued_](/Conditions.md#fatigued) Condition, which cannot be removed until you can change your clothes and clean yourself up. |
 | 26-30 | **Soulfire:** Gain an [_Ablaze_](/Conditions.md#ablaze) Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
 | 31-35 | **Speak in Tongues:** You gabble unintelligibly for 1d10 rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally|
 | 36-40 | **Swarmed:** You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM’s choice). Use the standard profiles for the relevant creature type, adding the _Swarm_ Creature Trait. After 1d10 rounds, if not yet destroyed, the swarm retreats.|

@@ -37,6 +37,23 @@
   - [Minor Miscast Table](/Rules.md#minor-miscast-table)
   - [Major Miscast Table](/Rules.md#major-miscast-table)
 
+## Conditions table of contents
+
+- [Conditions](/Conditions.md#conditions)
+  - [Master Condition list](/Conditions.md#master-condition-list)
+    - [Ablaze](/Conditions.md#ablaze)
+    - [Bleeding](/Conditions.md#bleeding)
+    - [Blinded](/Conditions.md#blinded)
+    - [Broken](/Conditions.md#broken)
+    - [Deafened](/Conditions.md#deafened)
+    - [Entangled](/Conditions.md#entangled)
+    - [Fatigued](/Conditions.md#fatigued)
+    - [Poisoned](/Conditions.md#poisoned)
+    - [Prone](/Conditions.md#prone)
+    - [Stunned](/Conditions.md#stunned)
+    - [Surprised](/Conditions.md#surprised)
+    - [Unconscious](/Conditions.md#unconscious)
+
 ## Cast a spell
 
 - Roll **Language (Magic)**

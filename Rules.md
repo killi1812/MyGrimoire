@@ -22,7 +22,6 @@
   - [Major Miscast Table](#major-miscast-table)
 <!--toc:end-->
 
-
 ## Magic Missile
 
 Hit Location is determined by reversing the dice rolled \

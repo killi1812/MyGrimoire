@@ -161,7 +161,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 16-20 | **Soulwax:** Your ears clog instantly with a thick wax. Gain 1 _Deafened_ Condition, which is not removed until someone cleans them for you (with a successful use of the **Heal** Skill). |
 | 21-25 | **Witchlight:** You glow with an eerie light related to your Lore, emitting as much light as a large bonfire, which lasts for 1d10 Rounds.|
 | 26-30 | **Fell Whispers:** Pass a **Average (+20) Willpower** Test or gain 1 Corruption point. |
-| 31-35 | **Rupture:** Your nose, eyes, and ears bleed profusely. Gain 1d10 _Bleeding_ Conditions. |
+| 31-35 | **Rupture:** Your nose, eyes, and ears bleed profusely. Gain 1d10 [_Bleeding_](/Conditions.md#bleeding) Conditions. |
 | 36-40 | **Soulquake:** Gain the _Prone_ Condition.|
 | 41-45 | **Unfasten:** On your person, every buckle unfastens, and every lace unties, which may cause belts to fall, pouches to open, bags to fall, and armour to slip.|
 | 46-50 | **Wayward Garb:** your clothes seem to writhe with a mind of their own. Receive 1 _Entangled_ Condition with a Strength of 1d10×5 to resist.|
@@ -185,7 +185,7 @@ The process also takes 1 hour plus 1 hour per **CN**
 | 11-15 | **Aethyric Shock:** you suffer 1d10 wounds, ignoring your Toughness Bonus and Armour Points. Pass an **Average (+20) Endurance** Test, or also gain a _Stunned_ Condition. |
 | 16-20 | **Death Walker:** Your footsteps leave death in their wake. For the next 1d10 hours, any plant life near you with- ers and dies.|
 | 21-25 | **Intestinal Rebellion:** Your bowels move uncontrollably, and you soil yourself. Gain 1 _Fatigued_ Condition, which cannot be removed until you can change your clothes and clean yourself up. |
-| 26-30 | **Soulfire:** Gain an _Ablaze_ Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
+| 26-30 | **Soulfire:** Gain an [_Ablaze_](#ablaze) Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
 | 31-35 | **Speak in Tongues:** You gabble unintelligibly for 1d10 rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally|
 | 36-40 | **Swarmed:** You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM’s choice). Use the standard profiles for the relevant creature type, adding the _Swarm_ Creature Trait. After 1d10 rounds, if not yet destroyed, the swarm retreats.|
 | 41-45 | **Ragdoll:** You are flung 1d10 yards through the air in a random direction, taking 1d10 wounds on landing, ignoring Armour Points, and receiving the _Prone_ Condition.| | 46-50 | |

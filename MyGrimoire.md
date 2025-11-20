@@ -44,8 +44,7 @@ This file is used as a personal grimoire for the player
 
 #### Critical Casting
 
-**Double** on a successful casting test
-
+**Double** on a successful casting test \
 Roll [Minor Miscast Table](#minor-miscast-table) and choose one of three extra
 effects (optional):
 
@@ -56,8 +55,7 @@ inflicts a Critical Wound.
 
 #### Fumbled Casting
 
-**Double** on a failed casting test
-
+**Double** on a failed casting test \
 Roll [Minor Miscast Table](#minor-miscast-table)
 
 ## Channelling a spell
@@ -73,15 +71,13 @@ Roll [Minor Miscast Table](#minor-miscast-table)
 
 #### Critical Channelling
 
-**Double** on a successful channelling test
-
+**Double** on a successful channelling test \
 Roll [Minor Miscast Table](#minor-miscast-table)
 and add **SL** equal to spell's **CN**
 
 #### Fumbled Channelling
 
-**Double** or **ending in 0** on a failed channelling test
-
+**Double** or **ending in 0** on a failed channelling test \
 Roll [Major Miscast Table](#major-miscast-table)
 
 ## Your Spells
@@ -98,8 +94,7 @@ Roll [Major Miscast Table](#major-miscast-table)
 
 ## Magic Missile
 
-Hit Location is determined by reversing the dice rolled
-
+Hit Location is determined by reversing the dice rolled \
 **Damage**: **SL** + **WPB** (Willpower Bonus) + spell’s listed Damage
 
 ## Touch Spells in Combat
@@ -125,7 +120,7 @@ Receiving damage or taking a Surprised Condition counts as interruption
 - Write them down as: _ingredient_ (_name of the spell_).
 - Ingredients are removed from inventory upon casting s spell
 
-Effect an ingredient:
+Effect of an ingredient:
 
 - A Major Miscast may be reduced to a Minor one.
 - A Minor Miscast may be reduced to no effect.
@@ -226,29 +221,48 @@ Art(Writing)** Test to a total of 5 **SL** per **CN**.
 The process also takes 1 hour plus 1 hour per **CN**
 
 ## Minor Miscast Table
-<!-- TODO: Finish writing -->
 
 | Roll | Effect |
 | -------------- | --------------- |
-| 01-05 | **Witchsign**: the next living creature born within 1 mile is mutated |
-| 06-10 | **Soured Milk**: All milk within 1d100 yards goes sour instantly |
-| 11-15 | **Blight** Willpower Bonus fields within Willpower Bonus miles suffer a blight, and all crops rot overnight. |
-| 16-20 | **Soulwax**: Your ears clog instantly with a thick wax. Gain 1 *Deafened Condition*, which is not removed until someone cleans them for you (with a successful use of the **Heal** Skill). |
-| 21-25 | **Witchlight**: You glow with an eerie light related to your Lore, emitting as much light as a large bonfire, which lasts for 1d10 Rounds.|
-| 26-30 | |
-| 31-35 | |
-| 36-40 | |
-| 41-45 | |
-| 46-50 | |
-| 51-55 | |
-| 56-60 | |
-| 61-65 | |
-| 66-70 | |
-| 71-75 | |
-| 76-80 | |
-| 81-85 | |
-| 86-90 | |
-| 91-95 | |
-| 96-00 | |
+| 01-05 | **Witchsign:** the next living creature born within 1 mile is mutated. |
+| 06-10 | **Soured Milk:** All milk within 1d100 yards goes sour instantly. |
+| 11-15 | **Blight:** Willpower Bonus fields within Willpower Bonus miles suffer a blight, and all crops rot overnight. |
+| 16-20 | **Soulwax:** Your ears clog instantly with a thick wax. Gain 1 _Deafened_ Condition, which is not removed until someone cleans them for you (with a successful use of the **Heal** Skill). |
+| 21-25 | **Witchlight:** You glow with an eerie light related to your Lore, emitting as much light as a large bonfire, which lasts for 1d10 Rounds.|
+| 26-30 | **Fell Whispers:** Pass a **Average (+20) Willpower** Test or gain 1 Corruption point. |
+| 31-35 | **Rupture:** Your nose, eyes, and ears bleed profusely. Gain 1d10 _Bleeding_ Conditions. |
+| 36-40 | **Soulquake:** Gain the _Prone_ Condition.|
+| 41-45 | **Unfasten:** On your person, every buckle unfastens, and every lace unties, which may cause belts to fall, pouches to open, bags to fall, and armour to slip.|
+| 46-50 | **Wayward Garb:** your clothes seem to writhe with a mind of their own. Receive 1 _Entangled_ Condition with a Strength of 1d10×5 to resist.|
+| 51-55 | **Curse of Temperance:** All alcohol within 1d100 yards goes bad, tasting bitter and foul.|
+| 56-60 | **Souldrain:** Gain 1 _Fatigued_ Condition, which remains for 1d10 hours|
+| 61-65 | **Driven to Distraction:** If engaged in combat, gain the _Surprised_ Condition. Otherwise, you are completely startled, your heart racing, and unable to concentrate for a few moments.|
+| 66-70 | **Unholy Visions:** Fleeting visions of profane and unholy acts harass you. Receive a _Blinded_ Condition; pass a **Challenging (+0) Cool** Test or gain another.|
+| 71-75 | **Cloying Tongue:** All Language Tests (including Casting Tests) suffer a –10 penalty for 1d10 Rounds. |
+| 76-80 | **The Horror!:** Pass a **Hard (–20) Cool** Test or gain 1 _Broken_ Condition.|
+| 81-85 | **Curse of Corruption:** Gain 1 Corruption point. |
+| 86-90 | **Double Trouble:** The effect of the spell you cast occurs elsewhere within 1d10 miles. At the GM’s discretion, where possible it should have consequences.|
+| 91-95 | **Multiplying Misfortune:** Roll twice on this table, rerolling any results between 91-00. |
+| 96-00 | **Cascading Chaos:** Roll again on the [Major Miscast Table](#major-miscast-table).|
 
 ## Major Miscast Table
+
+| Roll | Effect |
+| -------------- | --------------- |
+| 01-05 | **Ghostly Voices:** Everyone within Willpower yards hears darkly seductive whispering of voices emanating from the Realm of Chaos. All sentient creatures must pass an **Average (+20) Cool** Test or gain 1 Corruption point.|
+| 06-10 | **Hexeyes:** Your eyes turn an unnatural colour associated with your Lore for 1d10 hours. While your eyes are discoloured, you have 1 _Blinded_ Condition that cannot be resolved by _any_ means. |
+| 11-15 | **Aethyric Shock:** you suffer 1d10 wounds, ignoring your Toughness Bonus and Armour Points. Pass an **Average (+20) Endurance** Test, or also gain a _Stunned_ Condition. |
+| 16-20 | **Death Walker:** Your footsteps leave death in their wake. For the next 1d10 hours, any plant life near you with- ers and dies.|
+| 21-25 | **Intestinal Rebellion:** Your bowels move uncontrollably, and you soil yourself. Gain 1 _Fatigued_ Condition, which cannot be removed until you can change your clothes and clean yourself up. |
+| 26-30 | **Soulfire:** Gain an _Ablaze_ Condition, as you are wreathed in unholy flames with a colour associated with your Lore.|
+| 31-35 | **Speak in Tongues:** You gabble unintelligibly for 1d10 rounds. During this time, you cannot communicate verbally, or make any Casting Tests, although you may otherwise act normally|
+| 36-40 | **Swarmed:** You are engaged by a swarm of aethyric Rats, Giant Spiders, Snakes, or similar (GM’s choice). Use the standard profiles for the relevant creature type, adding the _Swarm_ Creature Trait. After 1d10 rounds, if not yet destroyed, the swarm retreats.|
+| 41-45 | **Ragdoll:** You are flung 1d10 yards through the air in a random direction, taking 1d10 wounds on landing, ignoring Armour Points, and receiving the _Prone_ Condition.| | 46-50 | |
+| 51-55 | **Limb frozen:** One limb (randomly determined) is frozen in place for 1d10 hours. The limb is useless, as if it had been Amputated (see page 180).|
+| 56-60 | **Darkling Sight:** You lose the benefit of the _Second Sight_ Talent for 1d10 hours. Channelling Tests also suffer a penalty of –20 for the duration.|
+| 61-65 | **Chaotic Foresight:** Gain a bonus pool of 1d10 Fortune points (this may take you beyond your natural limit). Every time you spend one of these points, gain 1 Corruption point. Any of these points remaining at the end of the session are lost.| | 66-70 | |
+| 71-75 | **Levitation:** You are borne aloft on the Winds of Magic, floating 1d10 yards above the ground for 1d10 min- utes. Other characters may forcibly move you, and you may move using spells, wings or similar, but will continu- ally return to your levitating position if otherwise left alone. Refer to the Falling rules (see page 166) for what happens when Levitation ends.|
+| 76-80 | **Regurgitation:** You spew uncontrollably, throwing up far more foul-smelling vomitus than your body can possibly contain. Gain the _Stunned_ Condition, which lasts for 1d10 Rounds.|
+| 81-85 | **Chaos Quake:** All creatures within 1d100 yards must pass an **Average (+20) Athletics** Test or gain the _Prone_ Condition.|
+| 86-90 | **Traitor’s Heart:** The Dark Gods entice you to commit horrendous perfidy. Should you attack or otherwise betray an ally to the full extent of your capabilities, regain all Fortune points. If you cause another character to lose a Fate Point, gain +1 Fate Point.| | 91-95 | |
+| 96-00 | **Aethyric Feedback:** Everyone within a number of yards equal to your Willpower Bonus, friend and foe alike, suffers 1d10 wounds, ignoring Toughness Bonus and Armour Points, and receives the _Prone_ Condition. If there are no targets in range, the magic has nowhere to vent, so your head explodes, killing you instantly. |
